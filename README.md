@@ -7,6 +7,8 @@
 - Abhijeet Singh (Leader) back-end, front-end, android-development
 - Yogesh Kute front-end, ui-ux, blockchain
 
+<img src='./screenshot/ss1.jpg' />
+
 #### Project Description
 Businesses often find it difficult to market themselves to drive foot traffic. According to the US Bureau of labour statistics ,traditional businesses find it hard to market themselves to consumers
 
@@ -19,6 +21,10 @@ Businesses often find it difficult to market themselves to drive foot traffic. A
 Traditional marketing methods have limitations such as high cost and being time-consuming. These problems can be solved
 
  • The outbreak of the COVID-19 pandemic has devastated businesses worldwide. These businesses include restaurants, theme parks as well as shopping malls. Prolonged lockdown and safe-distancing measures drastically decreased the foot traffic and revenue of these businesses, forcingt hem to shut down or pivot.
+
+<img src='./screenshot/ss2.png' />
+
+<img src='./screenshot/ss3.png' />
 
 #### Summary
 A next-gen geo-tagged playground where players meet opportunities offered with a timeless technology. Map-based gameplay with capabilities to engage players and provide market visibility to enterprise.
@@ -36,6 +42,20 @@ A next-gen geo-tagged playground where players meet opportunities offered with a
 a) These NFTs can be in the form of vouchers from retail businesses such as restaurants, stores and theme parks, collectables such as limited edition digital pets as well as digital art.
 
 b) This serves as a marketing tool for businesses to drive foot traffic while promoting health and wellness.
+
+<img src='./screenshot/ss4.png' />
+
+Why XDC : XDC Network is an enterprise-grade, open-source blockchain protocol. An EVM-compatible chain with enforceable smart contracts, it is uniquely suited to revolutionize, decentralize, and liquify the trade finance industry through the tokenization of real world assets and financial instruments.
+
+
+<img src='./screenshot/ss5.png' />
+
+
+Enterprise : The XDC Network is a groundbreaking blockchain with impressive speed, scalability, low fees, and military-grade security. Using XDC Network, businesses can improve their record keeping, exchange data and transfer assets more efficiently and more securely.
+
+Trade Finance : The XDC Network sets a benchmark for digitizing trade finance by enabling the tokenization of diverse trade finance instruments and assets.
+
+Developers & Creators : The XDC Network is an enterprise-grade, open-source and EVM-compatible Layer 1 blockchain. Geared to accommodate any EVM tool set, developers can carry their skills from other chains onto the XDC Network.
 
 #### URLs
 https://youtu.be/4cOQlu_haEY
