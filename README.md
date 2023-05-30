@@ -47,6 +47,3 @@ We Need support and contacts with vendors ,businesses and restaurants for testin
 1) Download the apk file [MAPX]([https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing](https://drive.google.com/file/d/1k66i3-EyOTOAWWFi0NIDwZe8rHCyzgCr/view?usp=sharing)) [https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing](https://drive.google.com/file/d/1k66i3-EyOTOAWWFi0NIDwZe8rHCyzgCr/view?usp=sharing) and install in your android phone 
 
 2) Catch all the NFTs
-
-#### License
-This repository includes an [unlicensed](http://unlicense.org/) statement though you may want to [choose a different license](https://choosealicense.com/).
