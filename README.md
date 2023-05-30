@@ -7,7 +7,7 @@
 - Abhijeet Singh (Leader) back-end, front-end, android-development
 - Yogesh Kute front-end, ui-ux, blockchain
 
-<img src='./screenshot/ss1.jpg' />
+<img src='./MapX_XDC/screenshot/ss1.jpg' />
 
 #### Project Description
 Businesses often find it difficult to market themselves to drive foot traffic. According to the US Bureau of labour statistics ,traditional businesses find it hard to market themselves to consumers
@@ -22,9 +22,9 @@ Traditional marketing methods have limitations such as high cost and being time-
 
  • The outbreak of the COVID-19 pandemic has devastated businesses worldwide. These businesses include restaurants, theme parks as well as shopping malls. Prolonged lockdown and safe-distancing measures drastically decreased the foot traffic and revenue of these businesses, forcingt hem to shut down or pivot.
 
-<img src='./screenshot/ss2.png' />
+<img src='./MapX_XDC/screenshot/ss2.png' />
 
-<img src='./screenshot/ss3.png' />
+<img src='./MapX_XDC/screenshot/ss3.png' />
 
 #### Summary
 A next-gen geo-tagged playground where players meet opportunities offered with a timeless technology. Map-based gameplay with capabilities to engage players and provide market visibility to enterprise.
@@ -43,12 +43,12 @@ a) These NFTs can be in the form of vouchers from retail businesses such as rest
 
 b) This serves as a marketing tool for businesses to drive foot traffic while promoting health and wellness.
 
-<img src='./screenshot/ss4.png' />
+<img src='./MapX_XDC/screenshot/ss4.png' />
 
 Why XDC : XDC Network is an enterprise-grade, open-source blockchain protocol. An EVM-compatible chain with enforceable smart contracts, it is uniquely suited to revolutionize, decentralize, and liquify the trade finance industry through the tokenization of real world assets and financial instruments.
 
 
-<img src='./screenshot/ss5.png' />
+<img src='./MapX_XDC/screenshot/ss5.png' />
 
 
 Enterprise : The XDC Network is a groundbreaking blockchain with impressive speed, scalability, low fees, and military-grade security. Using XDC Network, businesses can improve their record keeping, exchange data and transfer assets more efficiently and more securely.
