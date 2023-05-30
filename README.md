@@ -43,7 +43,7 @@ a) These NFTs can be in the form of vouchers from retail businesses such as rest
 
 b) This serves as a marketing tool for businesses to drive foot traffic while promoting health and wellness.
 
-<img src='./MapX_XDC/screenshot/ss4.jpg' />
+
 
 Why XDC : XDC Network is an enterprise-grade, open-source blockchain protocol. An EVM-compatible chain with enforceable smart contracts, it is uniquely suited to revolutionize, decentralize, and liquify the trade finance industry through the tokenization of real world assets and financial instruments.
 
@@ -67,6 +67,8 @@ We Need support and contacts with vendors ,businesses and restaurants for testin
 1) Download the apk file [MAPX]([https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing](https://drive.google.com/file/d/1k66i3-EyOTOAWWFi0NIDwZe8rHCyzgCr/view?usp=sharing)) [https://drive.google.com/file/d/1oZIDC3V8pG8D8A7y5_JGBiM-BtyT7iOl/view?usp=sharing](https://drive.google.com/file/d/1k66i3-EyOTOAWWFi0NIDwZe8rHCyzgCr/view?usp=sharing) and install in your android phone 
 
 2) Catch all the NFTs
+
+<img src='./MapX_XDC/screenshot/ss4.jpg' />
 
 ## Deployed smart contract 
 
