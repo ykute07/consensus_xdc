@@ -42,6 +42,42 @@ A next-gen geo-tagged playground where players meet opportunities offered with a
 a) These NFTs can be in the form of vouchers from retail businesses such as restaurants, stores and theme parks, collectables such as limited edition digital pets as well as digital art.
 
 b) This serves as a marketing tool for businesses to drive foot traffic while promoting health and wellness.
+Opportunity
+
+
+Target audience
+
+Crypto Projects, Firms and Communities.
+
+Our main audience is crypto projects, firms and communities. They can choose to mint NFTs that Crypto projects, are tied to physical locations, allowing players to collect them at the location. These NFTs can have future economic or sentimental utilities. This serves firms and as a marketing tool to help engage their respective communities, at the same time providing an communities element of gamification to their project.
+
+Our audience can also choose to mint NFTs for special events at certain locations. An example will be the Kaiju Kings community meetup in Singapore. Holders of the Kaiju Kings NFT were invited to a party with free food and drinks. Thus, these event NFTs can provide additional incentives for crypto communities to gather at a location. We foresee the increase of crypto adoption in the future, thus the emergence of communities big or small. Retail businesses
+
+Our secondary audience is retail businesses. They can utilize the MapX platform as a Retail marketing tool to drive foot traffic. They do this by issuing NFT vouchers. This can be done by Businesses setting up a redemption point in or near their stores. All they have to do is to shake their phone with the Encrypt app on tablets or smartphones and a token will be marked as used. This reduces the operating costs associated with needing to have a spare tablet or smartphone.Consumers can then spend the NFT effectively “burning” it. On top of NFT vouchers, businesses can also issue NFT collectables as well as art pieces. Compared to traditional marketing tools, Encrypt provides several advantages to businesses.
+
+Guarantee foot traffic/high conversion rate.
+
+Since consumers have already made the effort to redeem the NFT vouchers physically, they are Guaranteed foot highly likely to spend those vouchers on the spot. A scenario is that hungry players would traffic/high scan the MapX app for possible food deals, and redeem the NFT voucher that would bring the highest utility/suit the player’s taste preferences.conversion rate. They would then use those vouchers on the spot to purchase from businesses.
+
+This guarantees foot traffic to the store Minimally, players would be exposed to the underlying brand and its products. Optimally, players will be converted to customers through sales. Having physically been to the store also reduces consumer resistance. This can be in the form of difficulty navigating to the store or a mismatch between product expectation and reality. Low Cost and Effective Marketing.
+
+MapX promotes businesses for free through the browse function. This is where users can search the map for possible NFTs to redeem. In MapX pricing model, businesses are charged for minting new NFTs. Since voucher redemption is highly correlated to conversion, businesses essentially are only charged for successful conversions. This was sociated with traditional marketing. Time-efficient
+
+Providing an existing pool of users who are ready to venture out and collect NFTs. Thus providing businesses with potential consumers to be converted
+
+Business
+
+Artists
+
+Artists can use MapX to tokenize both physical as value well as digital artworks. They can then give these artworks away or auction them off through the platform . MapX offers an intuitive user interface
+
+Players
+
+Players are users who collect NFTs using the MapX app
+
+• Transferable vouchers. Traditional E- vouchers are often restricted to the person intended. Oftentimes, these vouchers are left unspent due to neglect,resulting in wastage.• Non-perishability. Traditional physical vouchers are susceptible to damage , making them a hassle to store. NFT vouchers are stored digitally in the player’s wallet,making them non-perishable
+
+• Transparent. Using the XDCand Filecoin blockchain, NFTs minted can be traced and observed by everyone XDC BLOCKCHAIN
 
 
 
